@@ -4,7 +4,7 @@
 ## Features
 </br>
 
-- [x] Password user login and SignUp using **sawo lab API**
+- [x] User login and SignUp
 - [x] Welcome landing page
 - [x] Delivery jobs search with relevent filters
 - [x] Easy job appliaction form
